@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**DivyanshBatham/DivyanshBatham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔭 I’m currently working on:
+- Building Locale.ai a location analytics tool for On-Demand, Ride Hailing. 
+- A Browser extenion for web.whatsapp for starting Google Meets video call instantly.
 
-Here are some ideas to get you started:
+#### 🌱 I’m currently learning:
+- Personal Branding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💬 Ask me about
+- Javascript
+- Regular Expressions
+
+#### 📫 How to reach me:
+- [Twitter](https://twitter.com/DivyanshBatham)
+- [LinkedIn](https://www.linkedin.com/in/divyanshbatham/)
+- [Dev.to](https://dev.to/divyanshbatham)
+- [Medium](https://medium.com/@DivyanshBatham)
+- [Behance](https://www.behance.net/divyanshbatham)
+- [Codewars](https://www.codewars.com/users/curious_db97)
+- [CodeSignal](https://app.codesignal.com/profile/curious_db97)
+
+#### 😄 Pronouns: He/Him
+
+#### 😄 Known as: curious_db97 | !NotCurious
+
+#### ⚡ Fun fact: !NotCurious = Curious = Me
