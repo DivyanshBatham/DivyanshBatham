@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🔭 I’m currently working on:
-- Building Locale.ai a location analytics tool for On-Demand, Ride Hailing. 
+- Building [Locale.ai](https://www.locale.ai/) a location analytics tool.
 - A Browser extenion for web.whatsapp for starting Google Meets video call instantly.
 
 #### 🌱 I’m currently learning:
