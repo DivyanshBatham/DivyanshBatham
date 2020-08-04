@@ -1,27 +1,42 @@
-### Hi there 👋
+<p align="center">
+  <img src="./assets/octocat.gif" width="40%"/>
+  <br><br>
+  <samp>
+    Hi 👋 I'm Divyansh Batham
+    <br>
+    Self-taught JS Enthusiast with an 👁 for dēSign.
+    <br><br>
+    Currently I'm building <a href="https://www.locale.ai/">Locale.ai</a>, a location analytics platform.
+    <br><br>
+    <strong>🔭 Outside work I'm working on 🔭</strong>
+    <br>
+    Portfolio | Personal Brand | <a href="https://www.producthunt.com/@divyanshbatham">...more</a>
+    <br><br>
+    <strong>🌱 What I'm learning right now? 🌱</strong>
+    <br>
+    Django | GraphQL
+    <br><br>
+    <strong>✨ My Extensive Skill Set ✨</strong>
+    <br>
+    Javascript | React.js | Vue.js | Express.js | Gatsby.js | Redux | Vuex | AWS | Firebase | Git | JWT | MongoDB | MySQL | Redis
+  </samp>
+</p>
 
-#### 🔭 I’m currently working on:
-- Building [Locale.ai](https://www.locale.ai/) a location analytics tool.
-- A Browser extenion for web.whatsapp for starting Google Meets video call instantly.
+<!-- #### 📫 How to reach me:
 
-#### 🌱 I’m currently learning:
-- Personal Branding
+- [Twitter][twitter]
+- [LinkedIn][linkedin]
+- [Dev.to][dev.to]
+- [Medium][medium]
+- [Behance][behance]
+- [Codewars][codewars]
+- [CodeSignal][codesignal]
 
-#### 💬 Ask me about
-- Javascript
-- Regular Expressions
 
-#### 📫 How to reach me:
-- [Twitter](https://twitter.com/DivyanshBatham)
-- [LinkedIn](https://www.linkedin.com/in/divyanshbatham/)
-- [Dev.to](https://dev.to/divyanshbatham)
-- [Medium](https://medium.com/@DivyanshBatham)
-- [Behance](https://www.behance.net/divyanshbatham)
-- [Codewars](https://www.codewars.com/users/curious_db97)
-- [CodeSignal](https://app.codesignal.com/profile/curious_db97)
-
-#### 😄 Pronouns: He/Him
-
-#### 😄 Known as: curious_db97 | !NotCurious
-
-#### ⚡ Fun fact: !NotCurious = Curious = Me
+[twitter]: https://twitter.com/DivyanshBatham
+[linkedin]: https://www.linkedin.com/in/divyanshbatham/
+[dev.to]: https://dev.to/divyanshbatham
+[medium]: https://medium.com/@DivyanshBatham
+[behance]: https://www.behance.net/divyanshbatham
+[codewars]: https://www.codewars.com/users/curious_db97
+[codesignal]: https://app.codesignal.com/profile/curious_db97 -->
