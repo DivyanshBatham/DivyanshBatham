@@ -2,10 +2,9 @@
   <img align="right" src="https://github.com/DivyanshBatham/DivyanshBatham/blob/master/assets/octocat.gif?raw=true" width="50%"/>
   <br><br>
   <samp>
-    Hi 👋 I'm Divyansh Batham
+    <strong>Hi 👋 I'm Divyansh Batham</strong>
     <br>
     Self-taught JS Enthusiast with an 👁 for dēSign.
-    <br><br>
     Currently I'm building <a href="https://www.locale.ai/">Locale.ai</a>, a location analytics platform.
     <br><br>
     <strong>🔭 Outside work I'm working on 🔭</strong>
