@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="left" src="https://github.com/DivyanshBatham/DivyanshBatham/blob/master/assets/octocat.gif?raw=true" width="50%"/>
+  <img align="right" src="https://github.com/DivyanshBatham/DivyanshBatham/blob/master/assets/octocat.gif?raw=true" width="50%"/>
   <br><br>
   <samp>
     Hi 👋 I'm Divyansh Batham
