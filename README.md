@@ -8,6 +8,10 @@
     <br>
     Currently I'm building <a href="https://www.locale.ai/">Locale.ai</a>, a location analytics platform.
     <br><br>
+    <strong>🏁 Competitive Coding Ranks 🏁</strong>
+    <br>
+    #130 <a href="https://www.codewars.com/users/curious_db97">@Codewars</a> | #122 <a href="https://app.codesignal.com/profile/curious_db97">@Codesignal</a>
+    <br><br>
     <strong>🔭 Outside work I'm working on 🔭</strong>
     <br>
     Personal Brand | Portfolio | <a href="https://www.producthunt.com/@divyanshbatham">...more</a>
@@ -16,7 +20,7 @@
     <br>
     Django | GraphQL
     <br><br>
-    <strong>✨ My Extensive Skill Set ✨</strong>
+    <strong>💎 My Extensive Skill Set 💎</strong>
     <br>
     Javascript | React.js | Vue.js | Express.js | Gatsby.js | Redux | Vuex | AWS | Firebase | Git | JWT | MongoDB | MySQL | Redis
   </samp>
