@@ -7,7 +7,7 @@
     <br>
     Self-taught JS Enthusiast with an 👁 for dēSign.
     <br>
-    Currently I'm building <a href="https://www.locale.ai/" target="_blank" rel="noopener noreferrer">Locale.ai</a>, a location analytics platform.
+    Currently working <a href="https://www.locale.ai/" target="_blank" rel="noopener noreferrer">@Locale.ai</a> as Frontend Engineer, building a web based GeoSpatial Analytics and Visualization Tool.
     <br><br>
     <strong>🏁 Competitive Coding Ranks 🏁</strong>
     <br>
