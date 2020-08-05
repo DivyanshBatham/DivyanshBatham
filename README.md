@@ -20,10 +20,10 @@
     <strong>🌱 What I'm learning right now? 🌱</strong>
     <br>
     Django | GraphQL
-    <br><br>
+    <br><br><br><br>
     <strong>💎 My Extensive Skill Set 💎</strong>
     <br>
-    Javascript | React.js | Vue.js | Express.js | Gatsby.js | Redux | Vuex | AWS | Firebase | Git | JWT | MongoDB | MySQL | Redis
+    Javascript | React.js | Vue.js | Node.js | Express.js | Gatsby.js | Redux | Vuex | AWS | Firebase | Git | JWT | MongoDB | MySQL | Redis | Figma | Adobe XD | Powerpoint
   </samp>
 </p>
 
