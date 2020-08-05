@@ -10,7 +10,7 @@
     <br><br>
     <strong>🔭 Outside work I'm working on 🔭</strong>
     <br>
-    Personal Brand (Follow Me 😬) | Portfolio | <a href="https://www.producthunt.com/@divyanshbatham">...more</a>
+    Personal Brand | Portfolio | <a href="https://www.producthunt.com/@divyanshbatham">...more</a>
     <br><br>
     <strong>🌱 What I'm learning right now? 🌱</strong>
     <br>
