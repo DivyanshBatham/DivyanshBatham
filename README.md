@@ -5,6 +5,7 @@
     <strong>Hi 👋 I'm Divyansh Batham</strong>
     <br>
     Self-taught JS Enthusiast with an 👁 for dēSign.
+    <br>
     Currently I'm building <a href="https://www.locale.ai/">Locale.ai</a>, a location analytics platform.
     <br><br>
     <strong>🔭 Outside work I'm working on 🔭</strong>
