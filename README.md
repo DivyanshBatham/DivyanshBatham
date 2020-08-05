@@ -1,5 +1,6 @@
 <p align="center">
-  <img align="right" src="https://github.com/DivyanshBatham/DivyanshBatham/blob/master/assets/octocat.gif?raw=true" width="50%"/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=DivyanshBatham&color=green"/>
+  <img align="right" src="https://github.com/DivyanshBatham/DivyanshBatham/blob/master/assets/octocat.gif?raw=true" width="40%"/>
   <br><br>
   <samp>
     <strong>Hi 👋 I'm Divyansh Batham</strong>
