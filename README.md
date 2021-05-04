@@ -11,7 +11,7 @@
     <br><br>
     <strong>🏁 Competitive Coding Ranks 🏁</strong>
     <br>
-    #128 <a href="https://www.codewars.com/users/DivyanshBatham" target="_blank" rel="noopener noreferrer">@Codewars</a> | #122 <a href="https://app.codesignal.com/profile/divyanshbatham" target="_blank" rel="noopener noreferrer">@Codesignal</a>
+    #126 <a href="https://www.codewars.com/users/DivyanshBatham" target="_blank" rel="noopener noreferrer">@Codewars</a> | #113 <a href="https://app.codesignal.com/profile/divyanshbatham" target="_blank" rel="noopener noreferrer">@Codesignal</a>
     <br><br>
     <strong>🔭 Outside work I'm working on 🔭</strong>
     <br>
