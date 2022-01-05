@@ -7,7 +7,7 @@
     <br>
     Self-taught JS Enthusiast with an 👁 for dēSign.
     <br>
-    Currently working <a href="https://www.locale.ai/" target="_blank" rel="noopener noreferrer">@Locale.ai</a> as Frontend Engineer, building a web based GeoSpatial Analytics and Visualization Tool.
+    Currently working <a href="https://unacademy.com/" target="_blank" rel="noopener noreferrer">@Unacademy</a> as Frontend Engineer, in the Classroom Experience team.
     <br><br>
     <strong>🏁 Competitive Coding Ranks 🏁</strong>
     <br>
